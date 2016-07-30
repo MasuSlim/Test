@@ -1,2 +1,3 @@
 # Test
-general folder for testing purposes 
+General folder for testing purposes. 
+Commints will only be accepted by known users of github.
